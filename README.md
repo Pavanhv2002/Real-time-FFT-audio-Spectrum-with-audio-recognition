@@ -1,4 +1,4 @@
-Here's a detailed description for your GitHub repository:
+![image](https://github.com/user-attachments/assets/43af3b42-fc84-4d28-bb7d-5537246ffcdf)Here's a detailed description for your GitHub repository:
 
 ---
 
@@ -85,4 +85,6 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 - Inspiration and initial code for real-time audio processing from various open-source projects and tutorials.
 
 ---
+![image](https://github.com/user-attachments/assets/9e64ae7c-25a7-4e06-953d-a3c8f34786d8)
+
 
