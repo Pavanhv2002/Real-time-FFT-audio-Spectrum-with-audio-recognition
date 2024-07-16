@@ -56,10 +56,7 @@ This project provides a real-time Fast Fourier Transform (FFT) audio spectrum an
 real-time-fft-audio-recognition/
 │
 ├── README.md                  # Project description and setup instructions
-├── requirements.txt           # List of dependencies
-├── main.py                    # Main script combining FFT visualization and audio recognition
 ├── audio_recognition_model.pkl # Pre-trained audio recognition model
-└── ...
 ```
 
 ## Dependencies
