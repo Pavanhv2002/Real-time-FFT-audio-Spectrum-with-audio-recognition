@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/43af3b42-fc84-4d28-bb7d-5537246ffcdf)Here's a detailed description for your GitHub repository:
+)Here's a detailed description for your GitHub repository:
 
 ---
 
